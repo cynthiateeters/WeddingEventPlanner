@@ -1,0 +1,62 @@
+body {
+    font-family: 'Bitter', serif;
+    font-size: 16px;
+}
+
+.nup-nav {
+    background-color: #cfe5df;
+}
+
+img.nup-logo {
+    vertical-align: text-bottom;
+    padding: 6px 0 0 10px;
+    height: 70px;
+}
+
+.nup-logo-title {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3.4em;
+    padding-left: 0.2em;
+    color: #000;
+}
+
+.nup-lead {
+    font-size: 1.5em;
+    color: #464646;
+    padding-top: 1em;
+}
+
+.nup-button {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1em;
+    background-color: #cfe5df;
+    text-decoration: none;
+    color: #444444;
+}
+
+nup-button-link {
+    color: inherit;
+    text-decoration: none;
+    color:
+}
+
+a.nup-button-link:hover,
+a.nup-button-link:focus,
+a.nup-button-link:active {
+    color: #444444;
+    text-decoration: none;
+}
+
+.btn-group-xl>.btn,
+.btn-xl {
+    padding: 0.5em 3em;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    border-radius: 1em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
